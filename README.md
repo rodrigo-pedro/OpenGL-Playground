@@ -11,9 +11,9 @@ This is a personal playground for OpenGL. Fun side project to explore graphics p
 - [x] Physically-based rendering
 - [x] Image-based lighting
 - [x] GLTF model loading (WIP)
-- [] Shadow mapping
-- [] Ambient occlusion
-- [] Much more...
+- [ ] Shadow mapping
+- [ ] Ambient occlusion
+- [ ] Much more...
 
 ## Controls
 
