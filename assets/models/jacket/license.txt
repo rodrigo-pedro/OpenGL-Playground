@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rock Jacket (mid-poly)
+* source:	https://sketchfab.com/3d-models/rock-jacket-mid-poly-25711a832a344c2dbe0b592c9d98707b
+* author:	Teliri (https://sketchfab.com/Teliri)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rock Jacket (mid-poly)" (https://sketchfab.com/3d-models/rock-jacket-mid-poly-25711a832a344c2dbe0b592c9d98707b) by Teliri (https://sketchfab.com/Teliri) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

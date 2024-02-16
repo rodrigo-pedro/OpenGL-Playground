@@ -1,0 +1,11 @@
+Model Information:
+* title:	The Parade Shield of King Erik XIV of Sweden
+* source:	https://sketchfab.com/3d-models/the-parade-shield-of-king-erik-xiv-of-sweden-ef735474305b4d3593c9d47ebd823f13
+* author:	The Royal Armoury (Livrustkammaren) (https://sketchfab.com/TheRoyalArmoury)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "The Parade Shield of King Erik XIV of Sweden" (https://sketchfab.com/3d-models/the-parade-shield-of-king-erik-xiv-of-sweden-ef735474305b4d3593c9d47ebd823f13) by The Royal Armoury (Livrustkammaren) (https://sketchfab.com/TheRoyalArmoury) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
