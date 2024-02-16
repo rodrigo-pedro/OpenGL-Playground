@@ -50,3 +50,13 @@ Load your model in the `createEntities()` method of `main.cpp` file. You can als
 ![Screenshot](assets/screenshots/wardrobe_1.jpg)
 
 ![Screenshot](assets/screenshots/shield_2.jpg)
+
+## Models
+
+List of 3D models present in the repository:
+
+- [The Parade Shield of King Erik XIV of Sweden](https://sketchfab.com/3d-models/the-parade-shield-of-king-erik-xiv-of-sweden-ef735474305b4d3593c9d47ebd823f13)
+- [Rock Jacket](https://sketchfab.com/3d-models/rock-jacket-mid-poly-25711a832a344c2dbe0b592c9d98707b)
+- [Antique wardrobe](https://sketchfab.com/3d-models/antique-wardrobe-free-39498c5ba771460cad3caf12b2ac2f92)
+- [Revolver Navy Colt 1851 Silver](https://sketchfab.com/3d-models/revolver-navy-colt-1851-silver-c254bb8ee01a4d9db9e6bbdc652d6c11)
+- [IBM PCjr 4863](https://sketchfab.com/3d-models/ibm-pcjr-4863-computer-freepolyorg-1c3c3cd0643d44d49a1771048da74c62)
