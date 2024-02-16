@@ -80,7 +80,7 @@
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{3ee5d5ef-7487-4b30-932f-7339198083a3}</ProjectGuid>
-    <RootNamespace>ShaderProject</RootNamespace>
+    <RootNamespace>ogl-playground</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>ogl-playground</ProjectName>
   </PropertyGroup>
